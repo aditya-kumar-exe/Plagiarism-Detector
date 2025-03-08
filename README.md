@@ -56,13 +56,4 @@ plagiarism_detector/
 └── README.md
 ```
 
-## Requirements File
-Create a `requirements.txt` with the following:
-```
-Flask
-```
-
-## License
-This project is licensed under the MIT License.
-```
 
